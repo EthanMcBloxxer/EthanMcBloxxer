@@ -45,3 +45,5 @@ You can find my other socials (and ways to contact me) on [ethanmcbloxxer.github
   <summary>More</summary>
   <div align="center"><img src="https://github.com/EthanMcBloxxer/EthanMcBloxxer/raw/main/info.svg?sanitize=true"></div>
 </details>
+
+![](/tracking.svg)
