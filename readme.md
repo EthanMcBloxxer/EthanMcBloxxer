@@ -32,14 +32,9 @@ You can find my other socials (and ways to contact me) on [ethanmcbloxxer.github
 <details>
   <summary>Stats</summary>
 
+  ![Stats](/github-metrics.svg)
 
-
-  ![views count](https://api.ghprofile.me/view?username=EthanMcBloxxer) ![GitHub followers](https://img.shields.io/github/followers/EthanMcBloxxer?label=Follow&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/EthanMcBloxxer?label=Repo%20Stars&style=for-the-badge) [![Twitter Follow](https://img.shields.io/twitter/follow/EthanMcBloxxer?style=for-the-badge)](https://twitter.com/EthanMcBloxxer) [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/EthanMcBloxxer?label=Reddit%20Karma&style=for-the-badge)](https://www.reddit.com/user/EthanMcBloxxer/)
-
-  [![Keybase BTC](https://img.shields.io/keybase/btc/EthanMcBloxxer?color=f6921a&style=for-the-badge)](https://keybase.io/ethanmcbloxxer)  
-  [![Keybase PGP](https://img.shields.io/keybase/pgp/EthanMcBloxxer?style=for-the-badge)](https://keybase.io/ethanmcbloxxer)  
-  [![Keybase XLM](https://img.shields.io/keybase/xlm/EthanMcBloxxer?style=for-the-badge)](https://keybase.io/ethanmcbloxxer)  
-  [![Keybase ZEC](https://img.shields.io/keybase/zec/EthanMcBloxxer?color=4094cc&style=for-the-badge)](https://keybase.io/ethanmcbloxxer)
+  ![views count](https://api.ghprofile.me/view?username=EthanMcBloxxer) ![GitHub followers](https://img.shields.io/github/followers/EthanMcBloxxer?label=Follow&style=for-the-badge) ![GitHub User's stars](https://img.shields.io/github/stars/EthanMcBloxxer?label=Repo%20Stars&style=for-the-badge)
 
   ![Compatibility: Club Penguin](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)
   ![Powered By: ENERGY DRINKS](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)

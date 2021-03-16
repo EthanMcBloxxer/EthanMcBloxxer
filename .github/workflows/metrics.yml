@@ -1,0 +1,46 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "* * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
+          user: EthanMcBloxxer
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/New_York
+          plugin_gists: yes
+          plugin_lines: yes
+          repositories_forks: yes
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      # Required
+          plugin_wakatime_days: 7                                   # Display last week stats
+          plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+          plugin_wakatime_limit: 4                                  # Show 4 entries per graph
+          
+          plugin_music: yes
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 5          # Limit to 4 entries
+          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          
+ 
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 11653162                          # Stackoverflow user id (required)
+          plugin_stackoverflow_sections: answers-top, questions-recent # Display top answers and recent questions
+          plugin_stackoverflow_limit: 2                                # Display 2 entries per section
+          plugin_stackoverflow_lines: 4                                # Display 4 lines per entry
