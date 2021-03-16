@@ -45,3 +45,8 @@ You can find my other socials (and ways to contact me) on [ethanmcbloxxer.github
   ![Powered By: ENERGY DRINKS](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)
   ![Designed in: MS PAINT](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)
 </details>
+
+<details>
+  <summary>More</summary>
+  <div align="center"><img src="https://github.com/EthanMcBloxxer/EthanMcBloxxer/raw/main/info.svg?sanitize=true"></div>
+</details>
