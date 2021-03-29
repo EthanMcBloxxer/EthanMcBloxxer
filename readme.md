@@ -28,5 +28,5 @@ You can email me at <EthanMcBloxxer@pm.me> or find me on Gitter at [EthanMcBloxx
 
 <details>
   <summary>More</summary>
-  <div align="center"><img src="https://github.com/EthanMcBloxxer/.public/raw/main/github-error.svg?sanitize=true"></div>
+  <div align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/EthanMcBloxxer/.public/raw/main/github-error.svg?sanitize=true" /></a></div>
 </details>
