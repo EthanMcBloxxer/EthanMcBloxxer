@@ -8,7 +8,7 @@ I have experience in...
 
 I like contributing anonymously, but also getting credit for what I do. I don't like screwing anything up or wasting anyone's time. I also don't really know what I'm doing on GitHub, even with 1+ year of being here.
 
-I've made 2 websites before, one of which is now [hosted on my GitHub profile page](https://ethanmcbloxxer.github.io/ethansware/index.html). My current one is at [ethanmcbloxxer.github.io](https://ethanmcbloxxer.github.io/), which is using [the Beautiful Jekyll theme](https://github.com/daattali/beautiful-jekyll).
+I've made 2 websites before, one of which is now [hosted on my GitHub profile page](https://ethanmcbloxxer.github.io/ethansware/index.html). My current one is at [ethanmcbloxxer.github.io](https://ethanmcbloxxer.github.io/), has documents at [/published](https://ethanmcbloxxer.github.io/published/).
 
 Under Roblox, I made things like clothing stores, utilities, CLIs, skill showcases, and API users. Additionally, I attempted [creating an exploit](https://github.com/EthanMcBloxxer/BloxsploitWF) with the WeAreDevs and EasyExploit APIs, but Bitdefender deleted it in my sleep and I got unmotivated to recover it. During my motivation period, though, I wrote [a few LuaU exploits](https://ethanmcbloxxer.github.io/pastebin#roexploits) on my website.
 
