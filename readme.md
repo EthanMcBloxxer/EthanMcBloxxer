@@ -2,6 +2,7 @@
 I have experience in...
 * HTML/CSS/JS/jQuery
 * C#
+* C++
 * Lua/LuaU (Roblox Lua)
 * Object Notations (JSON, YAML, XPath, CSV)
 * QBasic
