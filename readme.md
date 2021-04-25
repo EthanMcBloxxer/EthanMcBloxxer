@@ -1,5 +1,7 @@
 ## I'm EthanMcBloxxer.
+
 I have experience in...
+
 * HTML/CSS/JS/jQuery
 * C#
 * C++
@@ -8,6 +10,8 @@ I have experience in...
 * QBasic
 
 I like contributing anonymously, but also getting credit for what I do. I don't like screwing anything up or wasting anyone's time. I also don't really know what I'm doing on GitHub, even with 1+ year of being here.
+
+***Quick Admonition:** Check out [my Gists](https://gist.github.com/EthanMcBloxxer)! There's tons more code there that might be useful to some people. Take them into account when thinking about this as my portfolio!*
 
 I've made 2 websites before, one of which is now [hosted on my GitHub profile page](https://ethanmcbloxxer.github.io/old/ethansware/index.html). My current one is at [ethanmcbloxxer.github.io](https://ethanmcbloxxer.github.io/), and has posts/documents at [/published](https://ethanmcbloxxer.github.io/published/).
 
